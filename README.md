@@ -8,4 +8,10 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+Tonight is going great
+
+Commit Steps:
+1. stage the commit(s)
+2. add a message and commit the change
+3. push the commit to Github
+
